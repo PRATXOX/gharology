@@ -1,0 +1,26 @@
+plugins = []
+headers = []
+redirects = []
+
+[functions]
+
+[functions."*"]
+
+[build]
+publish = "C:\\Users\\praty\\Downloads\\ghar-o-logy-landing\\ghar-o-logy-landing"
+publishOrigin = "default"
+base = "C:\\Users\\praty\\Downloads\\ghar-o-logy-landing\\ghar-o-logy-landing"
+
+[build.environment]
+
+[build.processing]
+
+[build.processing.css]
+
+[build.processing.html]
+
+[build.processing.images]
+
+[build.processing.js]
+
+[build.services]
